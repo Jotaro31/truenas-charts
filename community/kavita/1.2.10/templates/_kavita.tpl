@@ -5,7 +5,7 @@ workload:
     primary: true
     type: Deployment
     podSpec:
-      hostNetwork: false
+      hostNetwork: true
       containers:
         kavita:
           enabled: true
