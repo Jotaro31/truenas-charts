@@ -1,0 +1,6 @@
+kavitaNetwork:
+  hostNetwork: true
+
+kavitaStorage:
+  config:
+    type: pvc

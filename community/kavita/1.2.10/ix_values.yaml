@@ -13,6 +13,7 @@ kavitaConfig:
 
 kavitaNetwork:
   webPort: 30069
+  hostNetwork: false
 
 kavitaStorage:
   config:
